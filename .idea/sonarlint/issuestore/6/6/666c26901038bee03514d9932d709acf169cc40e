@@ -1,0 +1,9 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚¢û8™²‹İÌ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÇÒøÿÿÿÿ8„øüÜÌ-
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(¨’Ëñûÿÿÿÿ8¶°ÑÀÌ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸ìÜøÿÿÿÿ8À€šİÌ-
+isquid:UselessImportCheck">Remove this unused import 'ConfigProperties.ConfigProperties'.(†èãõ8¾¼¾ßÌ-
+Zsquid:UnusedPrivateMethod&".Remove this unused private "getResult" method.(€ô²¶8„øüÜÌ-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¥Áœ8ƒ¢ÂíÌ-
+wsquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(×¥Áœ8ƒ¢ÂíÌ-

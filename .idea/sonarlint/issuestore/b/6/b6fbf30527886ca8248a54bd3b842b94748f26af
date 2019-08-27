@@ -1,0 +1,13 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©òÉÊÊ-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Øãçúÿÿÿÿ8É»ÊÊ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(•°£Ÿıÿÿÿÿ8€ğµÊÊ-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8Î¼ÏÊÊ-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ì›Ê«8¼ ·ÊÊ-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©òÉÊÊ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(’óÏl8©òÉÊÊ-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©òÉÊÊ-

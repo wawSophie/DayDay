@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø€µ¾şÿÿÿÿ8Ë¥ñãÊ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8´ùÃâÊ-
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û8ö¿æãÊ-
+9squid:S36267"Remove this redundant jump.(ûÁİ…8´ùÃâÊ-
+v
+squid:S135<"YReduce the total number of break and continue statements in this loop to use at most one.(ßúğÙ8ÑèÆâÊ-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û8˜˜¹áÌ-

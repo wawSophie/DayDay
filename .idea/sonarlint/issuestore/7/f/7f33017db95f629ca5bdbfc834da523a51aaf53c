@@ -1,0 +1,23 @@
+
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÏÖÓ¿Ê-
+Hsquid:S2157"%Add a "clone()" method to this class.(Š‰¸Öÿÿÿÿÿ8øÙÔ¿Ê-
+Fsquid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÏÖÓ¿Ê-
+hsquid:HiddenFieldChecki":Rename "course" which hides the field declared at line 74.(˜¸û‹ıÿÿÿÿ8ØÈò¿Ê-
+squid:UselessImportCheck"VRemove this unused import 'com.sun.xml.internal.messaging.saaj.util.ByteOutputStream'.(õ˜×¦8Ô†Ï¿Ê-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şŠí¾Ê-
+Rsquid:S1191"5Use classes from the Java API instead of Sun classes.(À®˜Y8ˆ¸•¿Ê-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖĞ ÷8şŠí¾Ê-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(„íí8Š¬¿Ê-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÖĞ ÷8Š¬¿Ê-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(„íí8şŠí¾Ê-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(„íí8ìŠ×¿Ê-
+psquid:S2975M"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(£‚g8ÏÖÓ¿Ê-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÖĞ ÷8ìŠ×¿Ê-
+Csquid:S2157o"%Add a "clone()" method to this class.(²‰áÎ8¯¢Ô¿Ê-
+squid:UselessImportCheck"URemove this unused import 'com.sun.xml.internal.messaging.saaj.util.ByteInputStream'.(À®˜Y8·ãÏ¿Ê-

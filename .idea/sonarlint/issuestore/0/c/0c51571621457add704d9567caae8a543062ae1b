@@ -1,0 +1,7 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ€ËÜ8óÑ†åÊ-
+=squid:S1659" Declare "e1" on a separate line.(‰½ïu8›ˆìäÊ-
+=squid:S1659" Declare "e2" on a separate line.(•Çâu8›ˆìäÊ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8ðÏÖäÊ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÐÀˆ8›ˆìäÊ-

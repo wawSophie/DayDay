@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(À„˜äüÿÿÿÿ8ŒÌëÀÌ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(£ĞŠÜıÿÿÿÿ8÷åõÀÌ-
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(Ü÷‰ğÿÿÿÿÿ8‡²ëÀÌ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¥µ±ïıÿÿÿÿ8—¯îÀÌ-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒùÚİ8ˆ¢ÂíÌ-
+Fsquid:S1604"(Make this anonymous inner class a lambda(ŒùÚİ8ˆ¢ÂíÌ-

@@ -1,0 +1,7 @@
+
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Îæ ùÿÿÿÿ8ëã¡¿Ê-
+usquid:S00116"QRename this field "db_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõµĞûÿÿÿÿ8ëã¡¿Ê-
+usquid:S00116"VRename this field "db_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÎü8ëã¡¿Ê-
+}squid:S00116"YRename this field "db_driverclass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÄÇıÿÿÿÿ8ëã¡¿Ê-
+zsquid:S00116"VRename this field "db_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì²½úúÿÿÿÿ8ëã¡¿Ê-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëã¡¿Ê-

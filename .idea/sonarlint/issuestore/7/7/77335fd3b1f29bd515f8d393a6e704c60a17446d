@@ -1,0 +1,6 @@
+
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(±¦‚Ğ8ùÉÛßÌ-
+Msquid:S1611
+"/Remove the parentheses around the "e" parameter(µè´ª8ªßßÌ-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8ùÉÛßÌ-
